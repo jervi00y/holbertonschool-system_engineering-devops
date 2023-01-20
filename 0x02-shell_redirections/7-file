@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+#!/usr/bin/env
+echo \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
